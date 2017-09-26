@@ -1,0 +1,97 @@
+header /*parte arriba del todo*/
+{
+	background-color: red;
+	border: 2px solid
+	margin-left:2px solid black;
+	text-align: center;
+	height: 200px;
+
+}
+
+nav /*parte donde navegas con los hipernelaces arriba*/
+{
+	border: 2px 4px 2px 4px solid black;
+	margin-left: 
+	border-radius: 2px solid black;
+	text-align: center;
+	background-color: pink;
+	height: 20px;
+}
+
+article /*parte de enmedio del todo*/
+{
+	width: 500px;
+	height: 200px;
+}
+
+aside /*Parte de los extremos derecha e izquierda*/
+{
+	background-color: yellow;
+	width: 300px;
+	text-align: center;
+	height: 400px;
+	color: purple;
+}
+
+header, nav, aside, article, footer /* El conjunto de las partes de la pagina */
+{
+	border: 3px solid black;
+	border-radius: 5px;
+	box-shadow: 6px 6px 0px black;
+	margin: 40px 10px 40px 10px;
+}
+
+nav :hover /* En la parte de arriba donde estan los Hiperenlaes cuando pases por encima del raton*/
+{
+	background-color: purple;
+	color: yellow;
+}
+
+nav :focus /* En la parte de arriba donde estan los Hiperenlaes cuando selecciones un elemento*/
+{
+	color: red;
+}
+
+#poner /* elemento aside de la izquierda*/
+{
+	display: inline-flex;
+	margin-left: 45px;
+}
+
+.bien /* elemento article de enmedio */
+{
+	border: 2px solid green;
+	margin: 10px 4px 10px;
+	color: red;
+	text-align: right;
+}
+
+footer /* parte de abajo del todo*/
+{
+	background-color: gray;
+}
+
+.retro
+{
+	background-color: red;
+}
+
+#posar /*parte del aside derecha del todo*/
+{
+	display: inline-flex;
+}
+
+.bueni /* parte del article de enmdeio la parte de abajo */
+{
+	background-color: green;
+}
+
+.mejor /* Elemento de enmedio la parte de arriba */
+{
+	background-image: url("azul.jpg");
+}
+
+header :hover /*parte arriba del todo cuando pasas el raton por encima */
+{
+	color: yellow;
+}
