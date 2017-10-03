@@ -43,9 +43,9 @@
 				<li> <a href="https://www.pcbox.com/categorias/ratones-gaming">PcBox</a></li>
 			</ol>
 		<!-- Esto hace referencia a las 3 imagenes-->	
-		<img src="razer.jpg" alt="Razer" title="Razer mamba">
-		<img src="mars gaming.jpg" alt="Mars Gaming" title="Mars gaming">
-		<img src="raton 1.jpg" alt="Counter Strike edition" title="Counter">
+		<img src="img/razer.jpg" alt="Razer" title="Razer mamba">
+		<img src="img/mars gaming.jpg" alt="Mars Gaming" title="Mars gaming">
+		<img src="img/raton 1.jpg" alt="Counter Strike edition" title="Counter">
 
 
 	</body>
