@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head> <!-- Parte de arriba -->
+		<meta charset="utf-8"> 
+		<title>Ratones gaming</title>
+		<meta name="Aqui podréis encontrar los mejores ratones Gaming de la actualidad." content="Ratones Gaming">
+	</head>
+
+	<body> <!-- Aqui va el cuerpo -->
+		<table id="t01">
+			  <tr> <!-- Esto es la tabla de arriba -->
+			    <th>Marca</th>
+			    <th>Modelo</th> 
+			    <th>Precio</th>
+			  </tr>
+
+			  <tr>
+			    <td>Razer</td>
+			    <td>Mamaba</td> 
+			    <td>40€</td>
+			  </tr>
+
+			  <tr>
+			  	<td>Mars Gaming</td>
+			  	<td>Grafitti</td>
+			  	<td>30€</td>
+			  </tr>
+
+			  <tr>
+			  	<td>Carrefour</td>
+			  	<td>Counter Edition</td>
+			  	<td>80€</td>
+			   </tr>
+
+		</table>
+
+		<h1>Ratones Gaming</h1> <!-- Esto es el titulo principal de la pagina en grande-->
+
+		
+			<ol> <!-- Las listas-->
+				<li> <a href="https://www.pccomponentes.com/ratones-gaming">Pccomponentes</a> </li>
+				<li> <a href="https://www.vsgamers.es/category/perifericos/ratones">Versus gamers</a> </li>
+				<li> <a href="https://www.pcbox.com/categorias/ratones-gaming">PcBox</a></li>
+			</ol>
+		<!-- Esto hace referencia a las 3 imagenes-->	
+		<img src="razer.jpg" alt="Razer" title="Razer mamba">
+		<img src="mars gaming.jpg" alt="Mars Gaming" title="Mars gaming">
+		<img src="raton 1.jpg" alt="Counter Strike edition" title="Counter">
+
+
+	</body>
+</html>
